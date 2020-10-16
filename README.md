@@ -7,6 +7,8 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
 
 # Questions 
 
+
+## Velocity
 - In which audios does the sound source appear to move faster? (Noise source)
     - 20 m/s
     - 30 m/s 
@@ -16,7 +18,8 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
   - 30 m/s
   - 10 m/s
   - 20 m/s
-
+  
+## Distance
 - In which the source audio sound seems more distant? (Siren)
     - 5 meters
     - 2 meters 
@@ -27,10 +30,30 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
     - 10 meters 
     - 5 meters
 
+## Reflection
 
+- Which audio perceives the most realistic sound (that is, most natural, imagining a real situation)? (Noise)
+    - With reflection
+    - No reflection
 
-
-
-
-
-
+- Which audio perceives the most realistic sound (that is, most natural, imagining a real situation)? (Siren)
+    - No reflection
+    - With reflection
+   
+## Interpolation 
+   
+- Which audio perceives the most realistic sound (that is, most natural, imagining a real situation)?
+    - VBAP
+    - Bilinear
+    - Nearest
+   
+## Number of sources
+   
+   
+   
+   
+   
+   
+   
+   
+   

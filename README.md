@@ -17,9 +17,15 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
   - 10 m/s
   - 20 m/s
 
+- In which the source audio sound seems more distant? (Siren)
+    - 5 meters
+    - 2 meters 
+    - 10 meters
 
-
-
+- In which the source audio sound seems more distant? (Noise)
+    - 2 meters
+    - 10 meters 
+    - 5 meters
 
 
 

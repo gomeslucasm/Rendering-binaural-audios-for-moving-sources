@@ -7,11 +7,9 @@
 
 - Variation on distance and velocity
 
- - Velocity
+ -- Velocity
  
-  - Siren
-  
-  - Noise
+
 
 
 

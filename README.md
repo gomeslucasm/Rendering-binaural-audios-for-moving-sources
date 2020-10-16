@@ -11,9 +11,9 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
 
 ## Velocity
 - In which audios does the sound source appear to move faster? (Noise source)
-    - 1. 20 m/s
-    - 2. 30 m/s 
-    - 3. 10 m/s
+    1. 20 m/s
+    2. 30 m/s 
+    3. 10 m/s
 
 - In which audios does the sound source appear to move faster? (Siren)
   - 30 m/s

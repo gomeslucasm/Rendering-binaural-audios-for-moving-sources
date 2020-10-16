@@ -27,7 +27,7 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
     - 3 - 10 meters
 
 - In which the source audio sound seems more distant? (Noise)
-    - 1- 2 meters
+    - 1 - 2 meters
     - 2 - 10 meters 
     - 3 - 5 meters
 

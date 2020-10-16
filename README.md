@@ -61,8 +61,8 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
 ## HATO
 
 - Do you notice any difference between the audios?
-
-   
+   - 0° HATO
+   - HATO variation
    
    
    

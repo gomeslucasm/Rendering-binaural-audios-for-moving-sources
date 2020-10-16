@@ -52,8 +52,16 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
    
 - How many sound sources can you identify?
    
-   
- [elephant](/Some Sources/some_sources.wav)
+## Extrapolation
+
+- Which audio perceives the most realistic sound (that is, most natural, imagining a real situation)?
+    - Extrapolated
+    - No extrapolated
+    
+## HATO
+
+- Do you notice any difference between the audios?
+
    
    
    

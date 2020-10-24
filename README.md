@@ -1,6 +1,6 @@
 # Rendering binaural audios for moving sources
 
-INTRO
+Here you can find the files used in the subjective research carried out for the article Rendering binaural audios for moving sources presented at the Reproduced Sound 2020 virtual conference.
 
 # Survey
 

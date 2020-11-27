@@ -1,10 +1,10 @@
 # Rendering binaural signals for moving sources
 
-Here you can find the files used in the subjective research carried out for the article **Rendering binaural signals for moving sources presented at the Reproduced Sound 2020 virtual conference**.
+Here you can find the files used in the subjective evaluation of the research carried out for the article **Rendering binaural signals for moving sources, presented at the Reproduced Sound 2020 conference**.
 
 # Survey
 
-To evaluate how realistically the rendered audios are perceived, a set of listening tests were conducted using an online plataform (<a href = 'https://www.questionpro.com/'>Question Pro</a>). The questions were designed to evaluate whether the subject would notice the sensation of speed and distance from  the  sound source.  Comparisons between the different interpolation and extrapolation techniques were also presented, as well as a parallel with and without specular reflections, to verify if that approach would improve the virtualization. Lastly a comparison between fixed HATO at 0◦ and the use of the closest HATO to the source azimuth angle were presented, in order to verify how noticeable thedifference would be.
+To evaluate how realistically the rendered audios are perceived, a set of listening tests were conducted using an online plataform (<a href = 'https://www.questionpro.com/'>Question Pro</a>). The questions were designed to evaluate whether the subject would notice the sensation of speed and distance from a sound source passing-by.  Comparisons between the different interpolation and extrapolation techniques were also tested, as well as a parallel test with and without specular reflections, to verify if that approach used would improve the virtualization. Lastly, a comparison between fixed HATO at 0◦ and the use of the closest HATO to the source azimuth angle were evaluated in order to verify how noticeable the differences would be.
 
 # Questions 
 
@@ -56,9 +56,9 @@ To evaluate how realistically the rendered audios are perceived, a set of listen
 
 - Which audio perceives the most realistic sound (that is, most natural, imagining a real situation)?
     - 1 - Extrapolated
-    - 2 - No extrapolated
+    - 2 - Not extrapolated
     
-## <a href = 'https://github.com/gomeslucasm/Rendering-binaural-audios-for-moving-sources/tree/master/HATO'>HATO<a>
+## <a href = 'https://github.com/gomeslucasm/Rendering-binaural-audios-for-moving-sources/tree/master/HATO'>Head Above Torso Orientation (HATO)<a>
 
 - Do you notice any difference between the audios?
    - 1 - 0° HATO
